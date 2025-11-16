@@ -1,0 +1,22 @@
+[
+  { "name": "UserManagement", "version": "1.0.0" },
+  { "name": "Blog", "version": "1.2.3" },
+  { "name": "Shop", "version": "2.0.0" },
+  { "name": "Forum", "version": "1.1.0" },
+  { "name": "Notifications", "version": "1.0.5" },
+  { "name": "Analytics", "version": "0.9.1" },
+  { "name": "Payments", "version": "1.3.4" },
+  { "name": "Subscriptions", "version": "2.1.0" },
+  { "name": "Chat", "version": "1.0.0" },
+  { "name": "MediaLibrary", "version": "1.4.2" },
+  { "name": "SEO", "version": "0.8.0" },
+  { "name": "CRM", "version": "3.0.0" },
+  { "name": "Billing", "version": "2.2.1" },
+  { "name": "HelpDesk", "version": "1.0.2" },
+  { "name": "Reports", "version": "1.5.5" },
+  { "name": "API", "version": "1.0.0" },
+  { "name": "Localization", "version": "0.7.3" },
+  { "name": "AuditLog", "version": "1.1.1" },
+  { "name": "Backup", "version": "2.0.0" },
+  { "name": "RolesPermissions", "version": "1.0.0" }
+]
