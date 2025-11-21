@@ -21,5 +21,28 @@
       "modules": []
     },
     "tags": ["header", "layout", "navigation"]
+  },
+  {
+    "id": "footer",
+    "name": "Footer",
+    "description": "Модуль подвала сайта с копирайтами, ссылками, соцсетями и дополнительной навигацией.",
+    "installable": true,
+    "version": "1.0.0",
+    "release_date": "2025-11-20 20:30",
+    "last_update": "2025-11-20 17:30",
+    "features": [
+      "Копирайт",
+      "Ссылки и полезные разделы",
+      "Социальные сети",
+      "Адаптивная мобильная версия"
+    ],
+    "status": "stable",
+    "author": "SkyCMS Team",
+    "requirements": {
+      "php": ">=8.2",
+      "database": "MySQL >= 8.0",
+      "modules": []
+    },
+    "tags": ["footer", "layout", "links", "social"]
   }
 ]
